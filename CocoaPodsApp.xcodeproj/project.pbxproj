@@ -13,6 +13,7 @@
 		9662613E28BD20EA00B98914 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9662613C28BD20EA00B98914 /* Main.storyboard */; };
 		9662614028BD20EE00B98914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9662613F28BD20EE00B98914 /* Assets.xcassets */; };
 		9662614328BD20EE00B98914 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9662614128BD20EE00B98914 /* LaunchScreen.storyboard */; };
+		9662614B28BD219300B98914 /* 1170x2532-Wallpaper-436.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9662614A28BD219200B98914 /* 1170x2532-Wallpaper-436.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9662613F28BD20EE00B98914 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9662614228BD20EE00B98914 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9662614428BD20EF00B98914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9662614A28BD219200B98914 /* 1170x2532-Wallpaper-436.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1170x2532-Wallpaper-436.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				9662613628BD20EA00B98914 /* AppDelegate.swift */,
+				9662614A28BD219200B98914 /* 1170x2532-Wallpaper-436.jpeg */,
 				9662613828BD20EA00B98914 /* SceneDelegate.swift */,
 				9662613A28BD20EA00B98914 /* ViewController.swift */,
 				9662613C28BD20EA00B98914 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9662614B28BD219300B98914 /* 1170x2532-Wallpaper-436.jpeg in Resources */,
 				9662614328BD20EE00B98914 /* LaunchScreen.storyboard in Resources */,
 				9662614028BD20EE00B98914 /* Assets.xcassets in Resources */,
 				9662613E28BD20EA00B98914 /* Main.storyboard in Resources */,
